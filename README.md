@@ -33,7 +33,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/library_management.git
+   git clone https://github.com/username/library-management.git
 
 2.Установите зависимости:
 
